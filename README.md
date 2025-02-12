@@ -10,7 +10,7 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein begeisterter Entwickler mit ein
 ## 🔧 Technologien & Tools
 - 🖥️ **Sprachen:** HTML, CSS, JavaScript und teilweise auch C#
 - ⚙️ **Tools:** Apache, Git
-- 📡 **Hosting & Infrastruktur:** Europe-Services
+- 📡 **Hosting & Infrastruktur:** [Europe-Services](www.europeservices.de)
 
 ## 📌 Projekte
 Hier sind einige meiner aktuellen Projekte:
