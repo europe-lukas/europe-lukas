@@ -3,8 +3,7 @@
 Willkommen auf meinem GitHub-Profil! Ich bin ein begeisterter Entwickler mit einem Fokus auf Webentwicklung. Hier findest du meine Projekte, an denen ich arbeite oder zu denen ich beitrage.
 
 ## 🚀 Über mich
-- 💻 Ich entwickle gerne Webanwendungen
-- 🎓 Verbunden mit der **Carl-Friedrich-Gauß-Schule Friedland**
+- 💻 Ich entwickle gerne Webanwendungen 
 - 📫 Kontakt: [E-Mail](mailto:///rensberg@europeservices.de)
  
 ## 🔧 Technologien & Tools
